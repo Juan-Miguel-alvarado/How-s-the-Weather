@@ -2,6 +2,9 @@
 
 A weather analytics dashboard built with React, Vite, and TypeScript. Displays current conditions, hourly breakdowns, 7-day forecasts, and analytics charts for any city in the world — powered by the Open-Meteo API (free, no key required).
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d75a6743-a94c-43be-9673-40210e3f7054" />
+
+
 ## Stack
 
 | Layer | Technology |
